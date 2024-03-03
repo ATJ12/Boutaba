@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.effect.SepiaTone?>
+    <AnchorPane prefHeight="466.0" prefWidth="794.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.AfficherRecruteurController" style="-fx-background-color: #1d3860;">
+    <children>
+        <TableView style="-fx-background-color: #1d3860;" fx:id="recruitersTable" layoutX="6.0" layoutY="53.0" onMouseClicked="#inc_clicked" prefHeight="271.0" prefWidth="562.0">
+            <columns>
+                <TableColumn fx:id="colId" prefWidth="106.39999675750732" text="id Recruteur" />
+                <TableColumn fx:id="colNom" prefWidth="134.40005493164062" text="Nom Recruteur" />
+                <TableColumn fx:id="colPrenom" prefWidth="134.40000915527344" text="Prenom Recruteur" />
+                <TableColumn fx:id="colSociete" prefWidth="331.199951171875" text="Nom Societe" />
+                <TableColumn fx:id="colEmail" prefWidth="192.0" text="Email" />
+                <TableColumn fx:id="colNumtel" prefWidth="192.0" text="Numtel" />
+
+            </columns>
+        </TableView>
+        <Button fx:id="delete" disable="true" layoutX="84.0" layoutY="410.0" mnemonicParsing="false" onAction="#deleteT" prefHeight="31.0" prefWidth="150.0" text="Delete"
+                style="-fx-background-color: #1d3860; -fx-text-fill: white;" />
+
+        <Button fx:id="updateT" disable="true" layoutX="362.0" layoutY="409.0" mnemonicParsing="false" onAction="#modifierRecruteur" prefHeight="31.0" prefWidth="150.0" text="Modifier Recruteur"
+                style="-fx-background-color: #1d3860; -fx-text-fill: white;" />
+        <TextField fx:id="name" layoutX="641.0" layoutY="308.0" prefHeight="31.0" prefWidth="118.0" promptText="Username" />
+        <TextField fx:id="prenom" layoutX="641.0" layoutY="244.0" prefHeight="31.0" prefWidth="118.0" promptText="Prenom" />
+        <TextField fx:id="societe" layoutX="641.0" layoutY="178.0" prefHeight="31.0" prefWidth="118.0" promptText="societe" />
+        <TextField fx:id="email1" layoutX="641.0" layoutY="103.0" prefHeight="31.0" prefWidth="118.0" promptText="Email" />
+        <TextField fx:id="numtel" layoutX="641.0" layoutY="32.0" prefHeight="31.0" prefWidth="118.0" promptText="num">
+        </TextField>
+        <ImageView fitHeight="141.0" fitWidth="164.0" layoutX="618.0" layoutY="324.0">
+            <image>
+                <Image url="@../../logoboutaba.png" />
+            </image>
+            <cursor>
+                <Cursor fx:constant="NW_RESIZE" />
+            </cursor>
+            <effect>
+                <SepiaTone />
+            </effect>
+      </ImageView>
+
+    </children>
+</AnchorPane>

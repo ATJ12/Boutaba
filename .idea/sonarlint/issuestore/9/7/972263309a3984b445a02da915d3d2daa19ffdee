@@ -1,0 +1,47 @@
+
+r	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õï¹Ìøÿÿÿÿ8ıü€øß1
+r	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õï¹Ìøÿÿÿÿ8şü€øß1
+m	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î‚M8şü€øß1
+s	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õï¹Ìøÿÿÿÿ8şü€øß1
+w	java:S116j"VRename this field "id_selected" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èåô³ùÿÿÿÿ8°ı€øß1
+L	java:S106N"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8µı€øß1
+
+java:S1130U"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¡Û¾Òúÿÿÿÿ8µı€øß1
+G	java:S106X"+Replace this use of System.out by a logger.(Âøá¶8¶ı€øß1
+c
+java:S1858u"A"getText" returns a string, there's no need to call "toString()".(‡š•Ãüÿÿÿÿ8¸ı€øß1
+c
+java:S1858u"A"getText" returns a string, there's no need to call "toString()".(‡š•Ãüÿÿÿÿ8¹ı€øß1
+c
+java:S1858u"A"getText" returns a string, there's no need to call "toString()".(‡š•Ãüÿÿÿÿ8¹ı€øß1
+c
+java:S1858u"A"getText" returns a string, there's no need to call "toString()".(‡š•Ãüÿÿÿÿ8¹ı€øß1
+Z
+java:S3972"7Move this "if" to a new line or add the missing "else".(Ø¿è†üÿÿÿÿ8»ı€øß1
+i
+java:S5998°"LRefactor this repetition that can lead to a stack overflow for large inputs.(õæˆB8¾ı€øß1
+k	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—é¿8Àı€øß1
+O
+java:S1172É"1Remove this unused method parameter "mouseEvent".(—é¿8Àı€øß1
+k	java:S100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃßÛ8Áı€øß1
+b
+java:S1854ã"?Remove this useless assignment to local variable "numtelValue".(Ìòóéùÿÿÿÿ8Áı€øß1
+X
+java:S1854Û"5Remove this useless assignment to local variable "T".(Õï¹Ìøÿÿÿÿ8Áı€øß1
+W
+java:S1854Ú"9Remove this useless assignment to local variable "index".(›¸œï8Áı€øß1
+H	java:S106Ø"+Replace this use of System.out by a logger.(ÃßÛ8Áı€øß1
+H
+java:S1481Ú"*Remove this unused "index" local variable.(›¸œï8Âı€øß1
+I
+java:S1481Û"&Remove this unused "T" local variable.(Õï¹Ìøÿÿÿÿ8Âı€øß1
+S
+java:S1481ã"0Remove this unused "numtelValue" local variable.(Ìòóéùÿÿÿÿ8Ãı€øß1
+K
+java:S1128".Remove this unused import 'entities.Personne'.(æÍê8Ãı€øß1
+T
+java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘8Ãı€øß1
+S
+java:S1128"6Remove this unused import 'java.awt.event.MouseEvent'.(›õ8Ãı€øß1
+W
+java:S1144¨"9Remove this unused private "showInformationAlert" method.(´¾æö8Ãı€øß1

@@ -1,0 +1,18 @@
+
+j
+java:S1192z"HDefine a constant instead of duplicating this literal ".*\\d.*" 3 times.(”¨¦Òÿÿÿÿÿ8§ªå§ß1
+l	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î‚M8éÉ×§ß1
+w	java:S116"[Rename this field "tf_nom_recruteur" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úç¦â8€Ê×§ß1
+	java:S116"^Rename this field "tf_prenom_recruteur" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şô¬Ùøÿÿÿÿ8€Ê×§ß1
+t	java:S116"YRename this field "tf_nom_societe" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áˆi8€Ê×§ß1
+o	java:S116"SRename this field "tf_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êøú¿8€Ê×§ß1
+m	java:S116 "QRename this field "tf_pwd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‹«”8€Ê×§ß1
+p	java:S116#"TRename this field "tf_numtel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä”ØÚ8€Ê×§ß1
+z	java:S116%"^Rename this field "tf_pwd_confirmation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É×¡–8ºªÊÿß1
+j	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹š‡ó8‚Ê×§ß1
+Y
+java:S39726"7Move this "if" to a new line or add the missing "else".(Ìàâäøÿÿÿÿ8„Ê×§ß1
+h
+java:S5998^"LRefactor this repetition that can lead to a stack overflow for large inputs.(õæˆB8‡Ê×§ß1
+H
+java:S5869Š"*Remove duplicates in this character class.(ö¿„¯8Ñªå§ß1

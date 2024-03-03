@@ -1,0 +1,20 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌŸ±Ó8ò­§¥ß1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌŸ±Ó8ò­§¥ß1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌŸ±Ó8ò­§¥ß1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùòåy8°¢²ß1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùòåy8°¢²ß1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùòåy8ò­§¥ß1
+m	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¯Ì 8°¢²ß1
+t	java:S116	"XRename this field "nom_recruteur" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï€Ê©8û­§¥ß1
+|	java:S116
+"[Rename this field "prenom_recruteur" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö±øçÿÿÿÿÿ8û­§¥ß1
+r	java:S116"VRename this field "nom_societe" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÛÄ¿8û­§¥ß1
+j	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½à½8€®§¥ß1
+j	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ƒîÛ8®§¥ß1
+o	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ã’˜üÿÿÿÿ8®§¥ß1
+o	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ã†•ÿÿÿÿÿ8®§¥ß1
+j	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½±¢Ò8‚®§¥ß1
+j	java:S100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¯Ì 8‚®§¥ß1
+_
+java:S1128"CRemove this unused import 'javafx.beans.binding.BooleanExpression'.(£Ğà8íÅ¢²ß1

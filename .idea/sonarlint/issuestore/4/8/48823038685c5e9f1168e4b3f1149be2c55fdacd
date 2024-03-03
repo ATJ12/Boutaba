@@ -1,0 +1,17 @@
+
+g	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ê®Í‹à1
+m	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëèø¡8ë®Í‹à1
+v	java:S116%"URename this field "colNom_job" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²’ñéøÿÿÿÿ8ô®Í‹à1
+„
+java:S1450"bRemove the "loggedInRecruiterId" field and declare it as a local variable in the relevant methods.(œ•şçıÿÿÿÿ8ô®Í‹à1
+L	java:S106H"+Replace this use of System.out by a logger.(×è¤şÿÿÿÿ8ü®Í‹à1
+Z
+java:S1128"=Remove this unused import 'javafx.collections.FXCollections'.(´¶²Æ8˜Åà1
+`
+java:S1128">Remove this unused import 'javafx.collections.ObservableList'.(ÄÜ€éüÿÿÿÿ8˜Åà1
+h
+java:S1128"KRemove this unused import 'javafx.scene.control.cell.PropertyValueFactory'.(àÎ¬õ8‚˜Åà1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8‚˜Åà1
+Y
+java:S1068"7Remove this unused "loggedInRecruiterId" private field.(œ•şçıÿÿÿÿ8Š¯Í‹à1

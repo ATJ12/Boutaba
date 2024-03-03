@@ -1,0 +1,42 @@
+
+m
+java:S1192c"KDefine a constant instead of duplicating this literal "idrecuteur" 4 times.(ıšûüÿÿÿÿ8›œÑà1
+m
+java:S1192a"KDefine a constant instead of duplicating this literal "specialite" 5 times.(¹‚ÂÏüÿÿÿÿ8›œÑà1
+j
+java:S1192`"HDefine a constant instead of duplicating this literal "nom_job" 5 times.(¶ÅüÙûÿÿÿÿ8›œÑà1
+d
+java:S1192b"HDefine a constant instead of duplicating this literal "salaire" 5 times.(óŞŠ8›œÑà1
+h
+java:S1192_"FDefine a constant instead of duplicating this literal "idjob" 5 times.(Öò˜øøÿÿÿÿ8›œÑà1
+l
+java:S2095l"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÕåÂ8¹œÑà1
+l
+java:S2095~"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÕåÂ8¹œÑà1
+l
+java:S2095Y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÕåÂ8¹œÑà1
+d
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(­¬”Û8¹œÑà1
+L	java:S106"+Replace this use of System.out by a logger.(¶ñîçûÿÿÿÿ8½œÑà1
+G	java:S106+"+Replace this use of System.out by a logger.(ƒñ«€8¿œÑà1
+L	java:S106,"+Replace this use of System.out by a logger.(Å„Û«ùÿÿÿÿ8¿œÑà1
+G	java:S106-"+Replace this use of System.out by a logger.(úÊøÒ8¿œÑà1
+G	java:S106."+Replace this use of System.out by a logger.(’¶íÅ8¿œÑà1
+L	java:S106/"+Replace this use of System.out by a logger.(¥¯ Ìùÿÿÿÿ8ÀœÑà1
+G	java:S1060"+Replace this use of System.out by a logger.(Œ¥‹‡8ÀœÑà1
+G	java:S1063"+Replace this use of System.out by a logger.(—ÈÑ8ÀœÑà1
+L	java:S1066"+Replace this use of System.out by a logger.(œÊÿùÿÿÿÿ8ÀœÑà1
+F	java:S1068"+Replace this use of System.out by a logger.(§Ÿ©]8ÀœÑà1
+L	java:S106C"+Replace this use of System.out by a logger.(‚î±éøÿÿÿÿ8ÃœÑà1
+G	java:S106M"+Replace this use of System.out by a logger.(Û§â´8ÅœÑà1
+R
+java:S1854]"5Remove this useless assignment to local variable "p".(œ¼Å€8ÁœÑà1
+C
+java:S1481]"&Remove this unused "p" local variable.(œ¼Å€8ÃœÑà1
+L	java:S106e"+Replace this use of System.out by a logger.(áîóıÿÿÿÿ8ÆœÑà1
+j	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¢¬™8ÃœÑà1
+L	java:S106w"+Replace this use of System.out by a logger.(áîóıÿÿÿÿ8ÉœÑà1
+j	java:S100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÇÍŒ8ÅœÑà1
+M	java:S106‰"+Replace this use of System.out by a logger.(áîóıÿÿÿÿ8ÉœÑà1
+M	java:S106»"+Replace this use of System.out by a logger.(‚€«™ûÿÿÿÿ8Øé¶à1
+M	java:S106¿"+Replace this use of System.out by a logger.(‚€«™ûÿÿÿÿ8Øé¶à1

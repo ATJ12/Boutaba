@@ -1,0 +1,15 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßÑ¨Š8°°šŒà1
+v	java:S116"URename this field "colNom_job" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²’ñéøÿÿÿÿ8Ê°šŒà1
+„
+java:S1450%"bRemove the "loggedInRecruiterId" field and declare it as a local variable in the relevant methods.(œ•þçýÿÿÿÿ8Ë°šŒà1
+o
+java:S3776."RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ã€‡¡8Í°šŒà1
+N
+java:S16028",Remove useless curly braces around statement(äëÏÍûÿÿÿÿ8Ï°šŒà1
+c
+java:S1126F"AReplace this if-then-else statement by a single return statement.(ÀˆÍ•ùÿÿÿÿ8Ð°šŒà1
+Y
+java:S1068%"7Remove this unused "loggedInRecruiterId" private field.(œ•þçýÿÿÿÿ8Ñ°šŒà1
+P
+java:S1144U"3Remove this unused private "showErrorAlert" method.(„è£‘8Ñ°šŒà1

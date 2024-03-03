@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.effect.SepiaTone?>
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.recruiterJobsController" style="-fx-background-color: #1d3860;">
+    <children>
+        <VBox alignment="CENTER" spacing="10.0" />
+         <TableView style="-fx-background-color: #1d3860;" fx:id="jobTableView" layoutX="14.0" layoutY="72.0" prefHeight="200.0" prefWidth="570.0">
+             <columns>
+                 <TableColumn fx:id="colIdjob" prefWidth="75.0" text="ID" />
+                 <TableColumn fx:id="colNom_job" prefWidth="150.0" text="Job Name" />
+                 <TableColumn fx:id="colSpecialite" prefWidth="150.0" text="Speciality" />
+                 <TableColumn fx:id="colSalaire" prefWidth="75.0" text="Salaire" />
+                 <!-- Add more columns as needed -->
+             </columns>
+         </TableView>
+         <TextField fx:id="searchTextField" layoutX="14.0" layoutY="30.0" promptText="Search" />
+        <ImageView fitHeight="141.0" fitWidth="164.0" layoutX="618.0" layoutY="324.0">
+            <image>
+                <Image url="@../../logoboutaba.png" />
+            </image>
+            <cursor>
+                <Cursor fx:constant="NW_RESIZE" />
+            </cursor>
+            <effect>
+                <SepiaTone />
+            </effect>
+        </ImageView>
+
+    </children>
+</AnchorPane>

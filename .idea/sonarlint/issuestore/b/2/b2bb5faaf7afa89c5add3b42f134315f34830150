@@ -1,0 +1,7 @@
+
+f	java:S116"QRename this field "tf_age" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âáˆ–
+k	java:S116"QRename this field "tf_nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇåÀ©øÿÿÿÿ
+i	java:S116"TRename this field "tf_prenom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÚŠ®
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò×ùÊıÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ
+h	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¬âüÿÿÿÿ

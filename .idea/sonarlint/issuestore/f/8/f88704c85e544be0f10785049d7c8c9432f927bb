@@ -1,0 +1,60 @@
+
+h
+java:S1192P"KDefine a constant instead of duplicating this literal "idrecuteur" 3 times.(¾åĞˆ8º ßà1
+m
+java:S1192O"KDefine a constant instead of duplicating this literal "specialite" 3 times.( ğ²ßûÿÿÿÿ8º ßà1
+j
+java:S1192Q"HDefine a constant instead of duplicating this literal "salaire" 3 times.(â¢âÉúÿÿÿÿ8º ßà1
+e
+java:S1192N"HDefine a constant instead of duplicating this literal "nom_job" 3 times.(»ï¹°8º ßà1
+h
+java:S1192M"FDefine a constant instead of duplicating this literal "idjob" 3 times.(çæ€üÿÿÿÿ8º ßà1
+r	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õï¹Ìøÿÿÿÿ8» ßà1
+s	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾§ÙÉúÿÿÿÿ8» ßà1
+t	java:S116+"SRename this field "job_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖóûÙşÿÿÿÿ8Û ßà1
+w	java:S116v"VRename this field "id_selected" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èåô³ùÿÿÿÿ8Û ßà1
+t
+java:S3776F"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(÷‹¾†ÿÿÿÿÿ8Ş ßà1
+N
+java:S1602S",Remove useless curly braces around statement(äëÏÍûÿÿÿÿ8ß ßà1
+^
+java:S1126d"AReplace this if-then-else statement by a single return statement.(”ÒÃÀ8à ßà1
+i	java:S100x"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º´’H8à ßà1
+W
+java:S1854{"5Remove this useless assignment to local variable "T".(Õï¹Ìøÿÿÿÿ8à ßà1
+V
+java:S1854z"9Remove this useless assignment to local variable "index".(€æºÛ8à ßà1
+M
+java:S1172x"1Remove this unused method parameter "mouseEvent".(º´’H8á ßà1
+F	java:S106x"+Replace this use of System.out by a logger.(º´’H8á ßà1
+G
+java:S1481z"*Remove this unused "index" local variable.(€æºÛ8á ßà1
+H
+java:S1481{"&Remove this unused "T" local variable.(Õï¹Ìøÿÿÿÿ8á ßà1
+X	java:S125ƒ"<This block of commented-out lines of code should be removed.(¶ğµ8â ßà1
+^	java:S125‡"<This block of commented-out lines of code should be removed.(Ü”‹ßøÿÿÿÿ8â ßà1
+
+java:S1130Š"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¡Û¾Òúÿÿÿÿ8â ßà1
+M	java:S106"+Replace this use of System.out by a logger.(ôÿèêşÿÿÿÿ8â ßà1
+k	java:S100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü»¨Ë8æ ßà1
+k	java:S100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œĞŒ…8ç ßà1
+K
+java:S1128".Remove this unused import 'entities.Personne'.(æÍê8Ú˜ìà1
+Q
+java:S1128"/Remove this unused import 'entities.Recruteur'.(‚Æ­ıùÿÿÿÿ8Ú˜ìà1
+Z
+java:S1128"8Remove this unused import 'javafx.application.Platform'.(§“óùÿÿÿÿ8õÿøà1
+D
+java:S1128"'Remove this unused import 'utils.MyDB'.(ôÕåº8Ú˜ìà1
+S
+java:S1128"6Remove this unused import 'java.awt.event.MouseEvent'.(›õ8Ú˜ìà1
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8Ú˜ìà1
+Y
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ8Ú˜ìà1
+K
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8Ú˜ìà1
+Q
+java:S1128"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶8Ú˜ìà1
+R
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8Ú˜ìà1
